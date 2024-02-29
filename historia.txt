@@ -1,5 +1,6 @@
 Hola yo soy freddy araujo
 
 y este es mi primer texto en visual code
+ahora ya puedo cambiar el texto con historial
 
 hola mundo

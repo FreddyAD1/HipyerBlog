@@ -1,0 +1,5 @@
+Hola yo soy freddy araujo
+
+y este es mi primer texto en visual code
+
+hola mundo

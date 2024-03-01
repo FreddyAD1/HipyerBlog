@@ -6,3 +6,5 @@ ahora ya puedo cambiar el texto con historial
 este es el tercer cambio
 
 hola mundo de nuevo 12
+
+hola mundo ancho y ejeno x1000 
